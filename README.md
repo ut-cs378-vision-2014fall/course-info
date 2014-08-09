@@ -12,4 +12,4 @@ We'll use open-source frameworks like [OpenCV](http://opencv.org/) to do the hea
 
 #### Meetings: Tuesdays and Thursdays, 9:30-11am, WEL 2.256
 
-###### Note: the course logo is copyright flickr user Dominic Alves, used under [Creative Commons](https://creativecommons.org/licenses/by/2.0/) license.
+###### Note: the course logo image is copyright flickr user Dominic Alves, used under [Creative Commons](https://creativecommons.org/licenses/by/2.0/) license.
