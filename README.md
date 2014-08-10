@@ -15,6 +15,6 @@ We'll use open-source frameworks like [OpenCV](http://opencv.org/) to do the hea
 ### Programming Guidelines.
 Assignments in this course will be completed in [Python 2.7](https://www.python.org/download/releases/2.7/).
 
-Code style should follow the guidelines established in PEP 8 and [PEP 257](http://legacy.python.org/dev/peps/pep-0257/).
+Code style should follow the guidelines established in [PEP 8](http://legacy.python.org/dev/peps/pep-0008/) and [PEP 257](http://legacy.python.org/dev/peps/pep-0257/).
 
 ###### Note: the course logo image is copyright flickr user Dominic Alves, used under [Creative Commons](https://creativecommons.org/licenses/by/2.0/) license.
