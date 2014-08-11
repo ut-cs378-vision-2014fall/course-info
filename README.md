@@ -19,9 +19,9 @@ We'll use open-source frameworks like [OpenCV](http://opencv.org/) to do the hea
 
 ### Goals of the class
 My goal is that, by the end of the class, you'll be able to:
-1. Extract 3D information latent in 2D images and video.
-2. Apply state-of-the-art scientific libraries without needing a full grasp of their implementations.
-3. Use industry standard software engineering practices such as version control and peer code review.
+ 1. Extract 3D information latent in 2D images and video.
+ 2. Apply state-of-the-art scientific libraries without needing a full grasp of their implementations.
+ 3. Use industry standard software engineering practices such as version control and peer code review.
 
 ## Grading and expectations
 
