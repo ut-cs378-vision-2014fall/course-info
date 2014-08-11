@@ -28,6 +28,22 @@ The class will be heavily project-based. Projects will be completed in small gro
 
 We'll devote lots of in-class time to working on projects with the TA and I available to help. Each class may begin with a short presentation on a topic relevant to the current assignment. You should expect to spend time outside of class gaining additional background and practice with the topics covered by the projects.
 
+## Course Schedule
+This schedule is a living thing and may change as needed to accomodate the class's progress.
+
+TBD
+
+## Course requirements
+
+### Attendance and Participation
+Classtime will be largely devoted to working in small groups, when you'll have access to me and the TA. While attendance is not required, it's to your advantage to come to collaborate with your group and stay abreast of developments in the course schedule.
+
+### Course materials
+TBD: Links to book, OpenCV tutorials, etc.
+
+### Grading
+TBD: List of projects and weights.
+
 ### Programming Guidelines.
 Assignments in this course will be completed in [Python 2.7](https://www.python.org/download/releases/2.7/).
 
