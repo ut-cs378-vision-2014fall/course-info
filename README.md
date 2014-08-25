@@ -61,6 +61,7 @@ See the project pages for details on submission and grading phases.
 Here is a list of the five projects for the class, along with *estimated* due dates. Actual dates may vary to accomodate class progress.
 
 | Name | Description | Weight | Due date (estimated) |
+|------|-------------|--------|----------------------|
 | Project 0 | Account setup and image basics | 10% | 4 Sept |
 | Project 1 | Stitching a panorama | 20% | 23 Sept |
 | Project 2 | Dense stereo reconstruction | 20% | 7 Oct |
