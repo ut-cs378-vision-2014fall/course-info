@@ -7,9 +7,11 @@
 
 ### Instructor: [Bryan Klingner](http://cs.utexas.edu/~bmk)
 - Email: bmk at cs dot utexas dot edu
-- Office hours: via Google Hangout, day and time TBD
+- Office hours: Thursday 5-6pm, GDC 5.420
 
-### TA: TBD
+### TA: Pengxiang Cheng
+- Email: pxcheng at cs dot utexas dot edu
+- Office hours: TBA
 
 ## Course aims and objectives
 
