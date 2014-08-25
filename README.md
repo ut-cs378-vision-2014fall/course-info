@@ -34,7 +34,7 @@ We'll devote lots of in-class time to working on projects with the TA and I avai
 This schedule is a living thing and may change as needed to accomodate the class's progress.
 
 |  # | Date            | Topic     | Details   | Projects |
-|---:| --------------- |-----------| ----------|
+|---:| --------------- |-----------| ----------|----------|
 |  1 | Thursday 28 Aug | Introductions | We meet each other. I'll tell you what I hope cover, you'll tell me what you hope to learn. | Project 0 out |
 
 ## Course requirements
