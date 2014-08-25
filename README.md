@@ -54,10 +54,13 @@ We'll devote lots of in-class time to working on projects with the TA and I avai
 ### Stereo and Structure From Motion
 - Stereo vision
 - Camera motion
+- Triangulation
 - Track formation
-- Assignment 3D scene reconstruction
 
 ### Real-time 3D tracking
+- Object segmentation
+- Motion estimation
+- Scene estimation
 
 ## Course Schedule
 This schedule is a living thing and may change as needed to accomodate the class's progress.
