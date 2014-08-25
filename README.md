@@ -32,6 +32,33 @@ The class will be heavily project-based. Projects will be completed in small gro
 
 We'll devote lots of in-class time to working on projects with the TA and I available to help. Each class may begin with a short presentation on a topic relevant to the current assignment. You should expect to spend time outside of class gaining additional background and practice with the topics covered by the projects.
 
+## Topic overview
+
+### Image basics
+- Programming environment (Python/Numpy/OpenCV)
+- Revision control with Git
+- Code submission, and peer review with Github
+- Digital image representation
+- Basic image transformations
+- What is an interest point?
+- How can we summarize image appearance?
+- Matching features
+
+### Multiple views of a scene
+- Camera models
+- Homography
+- RANSAC
+- Image warping
+- Stitching
+
+### Stereo and Structure From Motion
+- Stereo vision
+- Camera motion
+- Track formation
+- Assignment 3D scene reconstruction
+
+### Real-time 3D tracking
+
 ## Course Schedule
 This schedule is a living thing and may change as needed to accomodate the class's progress.
 
