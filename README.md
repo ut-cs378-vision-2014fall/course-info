@@ -41,11 +41,19 @@ This schedule is a living thing and may change as needed to accomodate the class
 
 ## Course requirements
 
+### Prerequisites
+- Basic knowledge of probability, statistics, and linear algebra.
+- Strong programming experience. Projects will be completed in Python. While no previous Python experience is required, I expect you to learn the Python you need to complete your assignments on your own outside of class.
+- No specific experience with computer vision is required.
+
 ### Attendance and Participation
 Classtime will be largely devoted to working in small groups, when you'll have access to me and the TA. While attendance is not required, it's to your advantage to come to collaborate with your group and stay abreast of developments in the course schedule.
 
 ### Course materials
-TBD: Links to book, OpenCV tutorials, etc.
+
+You'll find the following resources useful:
+- Computer Vision: Algorithms and Applications, by Rick Szeliski. [Free online](http://szeliski.org/Book/) or [buy at Amazon](http://www.amazon.com/Computer-Vision-Algorithms-Applications-Science/dp/1848829345/).
+- [OpenCV Python Tutorials](http://docs.opencv.org/trunk/doc/py_tutorials/py_tutorials.html)
 
 ### Grading
 
@@ -67,6 +75,11 @@ Here is a list of the five projects for the class, along with *estimated* due da
 | Project 2 | Dense stereo reconstruction | 20% | 7 Oct |
 | Project 3 | Real-time tracking | 20% | 23 Oct |
 | Project 4 | Choose your own adventure | 30% | 2 Dec | 
+
+### Late policy
+Submit your project by 11:59 PM on the day that its due according to the project's instructions.
+
+You're allowed three late days to use at your discretion across the semester with no penalty to your grade. If you submit your assignment any later than 11:59 on its due date, you will consume a late day. After all three late days are consumed, you'll receive no credit for late assignments. If you submit an assignment late, notify the TA by email.
 
 ### Programming Guidelines.
 Assignments in this course will be completed in [Python 2.7](https://www.python.org/download/releases/2.7/).
