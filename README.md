@@ -13,6 +13,8 @@
 - Email: pxcheng at cs dot utexas dot edu
 - Office hours: TBA
 
+### Course discussion [on Piazza](https://piazza.com/utexas/fall2014/cs378/home)
+
 ## Course aims and objectives
 
 Projects like [Photosynth](http://photosynth.net/), [Kinect](http://en.wikipedia.org/wiki/Kinect), and [Tango](https://www.google.com/atap/projecttango/#project) have shown the incredible potential of using computer vision to construct immersive 3D environments from easily acquired imagery. In this lab-based class, we'll dive into practical applications of 3D reconstruction, combining hardware and software to build our own 3D environments from scratch. 
