@@ -48,7 +48,24 @@ Classtime will be largely devoted to working in small groups, when you'll have a
 TBD: Links to book, OpenCV tutorials, etc.
 
 ### Grading
-TBD: List of projects and weights.
+
+Grades will be based on a series of projects completed in small groups. Projects will be due about every two weeks. I'll assign different groups of three students for each of projects 0-3, and you can choose your own group of 3-4 students for the final project 4, which will be on a topic of your choosing.
+
+Each project will be graded in three phases:
+1. Initial code submission (80%)
+2. Peer code review (10%)
+3. Revised code submission (10%)
+
+See the project pages for details on submission and grading phases.
+
+Here is a list of the five projects for the class, along with *estimated* due dates. Actual dates may vary to accomodate class progress.
+
+| Name | Description | Weight | Due date (estimated) |
+| Project 0 | Account setup and image basics | 10% | 4 Sept |
+| Project 1 | Stitching a panorama | 20% | 23 Sept |
+| Project 2 | Dense stereo reconstruction | 20% | 7 Oct |
+| Project 3 | Real-time tracking | 20% | 23 Oct |
+| Project 4 | Choose your own adventure | 30% | 2 Dec | 
 
 ### Programming Guidelines.
 Assignments in this course will be completed in [Python 2.7](https://www.python.org/download/releases/2.7/).
