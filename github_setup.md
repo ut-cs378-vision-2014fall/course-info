@@ -36,5 +36,5 @@ This creates a local "clone" of the projects repository on your local machine. N
 Next, change your working directory to the newly created projects repo:
 
 ```bash
-$ cd homework/
+$ cd projects/
 ```
