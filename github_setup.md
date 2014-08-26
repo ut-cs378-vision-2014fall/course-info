@@ -81,6 +81,30 @@ upstream	https://github.com/ut-cs378-vision-2014fall/projects.git (fetch)
 upstream	https://github.com/ut-cs378-vision-2014fall/projects.git (push)
 ```
 
+Finally, push the contents of your clone to your private repository:
 
+```bash
+$ git push -u origin master
+```
+
+You should see output that's something like:
+
+```bash
+Counting objects: 19, done.
+Delta compression using up to 8 threads.
+Compressing objects: 100% (10/10), done.
+Writing objects: 100% (19/19), 1.86 KiB | 0 bytes/s, done.
+Total 19 (delta 1), reused 0 (delta 0)
+To https://github.com/ut-cs378-vision-2014fall/projects-[EID].git
+ * [new branch]      master -> master
+Branch master set up to track remote branch master from origin.
+```
+
+Now, any pushes you make from your local repo will go to your private projects repo on GitHub by default with a mere `git push`:
+
+```bash
+$ git push
+Everything up-to-date
+```
 
 ###### These instructions are heavily inspired by [this guide](https://raw.githubusercontent.com/ComS342-ISU/course-info/master/guides/course-setup.md).
