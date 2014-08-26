@@ -5,7 +5,9 @@ GitHub is a git repository hosting service that we'll use to publish projects an
 
 ## Step 0: How do I... git?
 
-If you're new to git, you may find it a bit overwhelming at first. But don't fear! There are many resources available online to help you learn. A list of recommended resources from GitHub is here. My favorite guide, 
+If you're new to git, you may find it a bit overwhelming at first. But don't fear! There are many resources available online to help you learn. A list of recommended resources from GitHub is [here](https://help.github.com/articles/what-are-other-good-resources-for-learning-git-and-github). 
+
+My favorite conceptual overview of git, which is tailored to computer scientists, is [here](http://eagain.net/articles/git-for-computer-scientists/). 
 
 ## Step 1: Create a GitHub account
 
