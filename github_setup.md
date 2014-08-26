@@ -51,6 +51,36 @@ origin	https://github.com/ut-cs378-vision-2014fall/projects.git (fetch)
 origin	https://github.com/ut-cs378-vision-2014fall/projects.git (push)
 ```
 
-You'll reconfigure the remotes so you can push your changes to your private projects repo.
+You'll reconfigure the remotes so you can push your changes to your private projects repo. First, rename the master projects remote `upstream`:
+
+```bash
+$ git remote rename origin upstream
+```
+
+You can see the effect this has by listing your remotes again:
+
+```bash
+$ git remote -v
+upstream	https://github.com/ut-cs378-vision-2014fall/projects.git (fetch)
+upstream	https://github.com/ut-cs378-vision-2014fall/projects.git (push)
+```
+
+Now, replace `origin` with your private repository:
+
+```bash
+$ git remote add origin https://github.com/ut-cs378-vision-2014fall/projects-[EID].git
+```
+
+You can now see the new remote:
+
+```bash
+$ git remote -v
+origin	https://github.com/ut-cs378-vision-2014fall/projects-[EID].git (fetch)
+origin	https://github.com/ut-cs378-vision-2014fall/projects-[EID].git (push)
+upstream	https://github.com/ut-cs378-vision-2014fall/projects.git (fetch)
+upstream	https://github.com/ut-cs378-vision-2014fall/projects.git (push)
+```
+
+
 
 ###### These instructions are heavily inspired by [this guide](https://raw.githubusercontent.com/ComS342-ISU/course-info/master/guides/course-setup.md).
