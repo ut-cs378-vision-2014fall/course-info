@@ -21,7 +21,7 @@ Once you've created your GitHub account, send an email to Pengxiang (pxcheng at 
 
 We will publish project descriptions, starter code, and unit tests to the 'projects' private repository. You will clone this repository to your private repo and push your changes there. We will collect your assignment by cloning your private repository.
 
-### Clone the class projects repository into your repository.
+### Clone the class projects repository
 
 From the command line of the computer where you installed git, clone the class-wide projects repository:
 
@@ -31,10 +31,26 @@ $ git clone https://github.com/ut-cs378-vision-2014fall/projects.git
 
 You will need to enter your GitHub username and password when prompted.
 
-This creates a local "clone" of the projects repository on your local machine. Next, we'll point this clone at your personal repository we set up for you in step 2, so your changes can be pushed there.
+This creates a local "clone" of the projects repository on your local machine.
 
 Next, change your working directory to the newly created projects repo:
 
 ```bash
 $ cd projects/
 ```
+
+### Configure pushes to your private repository
+
+You'll complete your projects by making changes in `projects` and pushing them to your private repo. To make this work, we need to set up your private repo as a [remote](http://git-scm.com/book/en/Git-Basics-Working-with-Remotes).
+
+Initially, your clone will be configured with the master projects repo as its only remote:
+
+```bash
+$ git remote -v
+origin	https://github.com/ut-cs378-vision-2014fall/projects.git (fetch)
+origin	https://github.com/ut-cs378-vision-2014fall/projects.git (push)
+```
+
+You'll reconfigure the remotes so you can push your changes to your private projects repo.
+
+###### These instructions are heavily inspired by [this guide](https://raw.githubusercontent.com/ComS342-ISU/course-info/master/guides/course-setup.md).
