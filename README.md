@@ -1,7 +1,5 @@
 3D Reconstruction with Computer Vision
 --------------------------------------
-<img src="https://raw.githubusercontent.com/ut-cs378-vision-2014fall/course-info/master/images/sfm_header.png" />
-
 ### CS 378 (53132), Fall 2014
 
 #### Meetings: Tuesdays and Thursdays, 9:30-11am, WEL 2.256
@@ -69,9 +67,9 @@ We'll devote lots of in-class time to working on projects with the TA and I avai
 ## Course Schedule
 This schedule is a living thing and may change as needed to accomodate the class's progress.
 
-|  # | Date            | Topic     | Details   | Reading | Projects |
-|---:| --------------- |-----------| ----------|---------|----------|
-|  1 | Thursday 28 Aug | Introductions and image basics | We meet each other. I'll tell you what I hope cover, you'll tell me what you hope to learn. | 2.1, 2.3 | Project 0 out |
+|  # | |Date            | Topic     | Details   | Reading | Projects |
+|---:|-|--------------- |-----------| ----------|---------|----------|
+|  1 |<img src="https://raw.githubusercontent.com/ut-cs378-vision-2014fall/course-info/master/images/lena_pixels.png"/> Thursday 28 Aug | Introductions and image basics | We meet each other. I'll tell you what I hope cover, you'll tell me what you hope to learn. | 2.1, 2.3 | Project 0 out |
 
 ## Course requirements
 
