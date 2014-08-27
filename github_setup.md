@@ -33,7 +33,7 @@ If you don't already have a GitHub account, get one [here](https://github.com/jo
 
 ## Step 2: Notify us of your EID -> GitHub mapping
 
-Once you've created your GitHub account, send an email to Pengxiang (pxcheng at cs dot utexas dot edu) with your GitHub account name and EID. He'll create a new private repository called `projects-[EID]` for you and grant you access to the `projects` private repository where project code will be posted.
+Once you've created your GitHub account, send an email to Pengxiang (pxcheng at cs dot utexas dot edu) with your GitHub account name and EID. He'll create a new private repository called `projects-[EID]` for you and grant you access to the `projects` private repository where project code will be posted. He'll send confirmation when that's done, and then you can proceed.
 
 ## Step 3: Set up your projects repository
 
@@ -124,5 +124,21 @@ Now, any pushes you make from your local repo will go to your private projects r
 $ git push
 Everything up-to-date
 ```
+
+### Getting updated `projects` content
+
+During the class, new project content will be published to the master `projects` repo. You can fetch this updated content using `git pull`:
+
+```bash
+$ git pull upstream master
+```
+
+As long as you didn't edit any of the master files (e.g. unit tests) as described in the project instructions, you shouldn't face any merge conflicts.
+
+### Submitting your work
+
+When you've complete a project, you need to push your finished work to your private repository on GitHub for grading.
+
+Remember that git is a distributed version control system, so `git commit` on your local machine has no effect on your GitHub repository. For changes to show up there, you need to `git push`. Check that the code reflected on the GitHub website reflects what you want graded before the project submission deadline.
 
 ###### These instructions are heavily inspired by [this guide](https://raw.githubusercontent.com/ComS342-ISU/course-info/master/guides/course-setup.md).
