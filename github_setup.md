@@ -9,6 +9,24 @@ If you're new to git, you may find it a bit overwhelming at first. But don't fea
 
 My favorite conceptual overview of git, which is tailored to computer scientists, is [here](http://eagain.net/articles/git-for-computer-scientists/). 
 
+## Step 1: Install git
+
+### Mac OS X
+
+I recommend installing the GitHub Mac application, which provides the [option to install the command-line git program](https://github.com/blog/1510-installing-git-from-github-for-mac).
+
+### Linux
+
+Your Linux distribution almost certainly has a git package available. For example, to install git on Ubuntu, just use:
+
+```bash
+$sudo apt-get install git-core
+```
+
+### Windows
+
+Windows is a bit trickier, because it's native command-line environment is not UNIX-like. You can install the [GUI GitHub for Windows](https://windows.github.com/) app and probably accomplish all of the below using its user interface, but I haven't tried.
+
 ## Step 1: Create a GitHub account
 
 If you don't already have a GitHub account, get one [here](https://github.com/join).
