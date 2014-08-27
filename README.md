@@ -1,5 +1,7 @@
 3D Reconstruction with Computer Vision
 --------------------------------------
+<img src="https://raw.githubusercontent.com/ut-cs378-vision-2014fall/course-info/master/images/sfm_header.png" />
+
 ### CS 378 (53132), Fall 2014
 
 #### Meetings: Tuesdays and Thursdays, 9:30-11am, WEL 2.256
