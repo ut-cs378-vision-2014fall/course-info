@@ -37,7 +37,7 @@ Once you've created your GitHub account, send an email to Pengxiang (pxcheng at 
 
 ## Step 3: Set up your projects repository
 
-We will publish project descriptions, starter code, and unit tests to the 'projects' private repository. You will clone this repository to your private repo and push your changes there. We will collect your assignment by cloning your private repository.
+We will publish project descriptions, starter code, and unit tests to the 'projects' class repository. You will clone this repository to your private repo and push your changes there. We will collect your assignment by cloning your private repository.
 
 ### Clone the class projects repository
 
