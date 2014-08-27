@@ -11,7 +11,7 @@
 
 ### TA: Pengxiang Cheng
 - Email: pxcheng at cs dot utexas dot edu
-- Office hours: TBA
+- Office hours: Tuesday 4-5pm, GDC 1.302 (TA Station) Desk 2
 
 ### Course discussion [on Piazza](https://piazza.com/utexas/fall2014/cs378/home)
 
