@@ -40,6 +40,8 @@ We'll devote lots of in-class time to working on projects with the TA and I avai
 - Code submission, and peer review with Github
 - Digital image representation
 - Basic image transformations
+
+### Image features
 - What is an interest point?
 - How can we summarize image appearance?
 - Matching features
