@@ -9,6 +9,8 @@ ruby -e "$(curl -fsSL https://raw.github.com/Homebrew/homebrew/go/install)"
 brew doctor
 ```
 
+If `brew doctor` reports any errors, be sure to resolve them before proceeding. Common errors include preexisting Python installations.
+
 #### Step 2: Install OpenCV packages
 
 ```bash
