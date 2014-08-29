@@ -69,7 +69,7 @@ This schedule is a living thing and may change as needed to accomodate the class
 
 |  # | Date |     | Topic     | Details   | Reading | Projects |
 |---:|------|:---:|-----------| ----------|---------|----------|
-|  1 | Thursday 28 Aug | <img width="400" src="https://raw.githubusercontent.com/ut-cs378-vision-2014fall/course-info/master/images/lena_pixels.png"/> | Introductions and image basics | We meet each other. I'll tell you what I hope cover, you'll tell me what you hope to learn. | 2.1, 2.3 | Project 0 out |
+|  1 | Thursday 28 Aug | <img width="400" src="https://raw.githubusercontent.com/ut-cs378-vision-2014fall/course-info/master/images/lena_pixels.png"/> | [Introductions and image basics](https://github.com/ut-cs378-vision-2014fall/course-info/raw/master/meeting-notes/01_28_august.pdf) | We meet each other. I'll tell you what I hope cover, you'll tell me what you hope to learn. | 2.1, 2.3 | Project 0 out |
 
 ## Course requirements
 
