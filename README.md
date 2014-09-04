@@ -70,8 +70,9 @@ This schedule is a living thing and may change as needed to accomodate the class
 |  # | Date |     | Topic     | Details   | Reading | Projects |
 |---:|------|:---:|-----------| ----------|---------|----------|
 |  1 | Thursday 28 Aug | <img width="400" src="https://raw.githubusercontent.com/ut-cs378-vision-2014fall/course-info/master/images/lena_pixels.png"/> | [Introductions and image basics](https://github.com/ut-cs378-vision-2014fall/course-info/raw/master/meeting-notes/01_28_august.pdf) | We meet each other. I'll tell you what I hope cover, you'll tell me what you hope to learn. | 2.1, 2.3 | Project 0 out |
-|  2 | Tuesday 2 Sep | <img width="400" src="https://raw.githubusercontent.com/ut-cs378-vision-2014fall/course-info/master/images/image_alignment.png"/> | Image Alignment | How can we bring multiple images of the same scene into alignment? | 3.6.1, 6.1.1 |  |
-|  3 | Thursday 4 Sep | <img width="400" src="https://raw.githubusercontent.com/ut-cs378-vision-2014fall/course-info/master/images/feature_match.png"/> | Feature Matching | Establishing correspondences between images is the first step of many 3D vision algorithms | 4.1.1-3 | Project 0 due |
+|  2 | Tuesday 2 Sep | <img width="400" src="https://raw.githubusercontent.com/ut-cs378-vision-2014fall/course-info/master/images/image_alignment.png"/> | [Image Alignment 1](https://github.com/ut-cs378-vision-2014fall/course-info/blob/master/meeting-notes/02_02_sept.pdf) | Image warping | 3.6.1  |  |
+|  3 | Thursday 4 Sep | <img width="400" src="https://raw.githubusercontent.com/ut-cs378-vision-2014fall/course-info/master/images/image_alignment.png"/> | Image Alignment 2 | Fitting a model | 6.1.1, 6.1.4 | Project 0 due Project 1 out |
+|  4 | Tuesday 9 Sep | <img width="400" src="https://raw.githubusercontent.com/ut-cs378-vision-2014fall/course-info/master/images/feature_match.png"/> | Feature Matching | Establishing correspondences between images is the first step of many 3D vision algorithms | 4.1.1-3 | |
 
 ## Course requirements
 
