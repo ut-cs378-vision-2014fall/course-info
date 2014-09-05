@@ -38,7 +38,7 @@ import pep8
 
 ### Ubuntu Linux 14.04
 
-#### Step 1: Install OpenCV and pip packages
+#### Step 1: Install OpenCV and pep8 packages
 
 ```bash
 sudo apt-get install python-opencv python-pip
