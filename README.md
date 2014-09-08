@@ -73,7 +73,7 @@ This schedule is a living thing and may change as needed to accomodate the class
 |  2 | Tuesday 2 Sep | <img width="400" src="https://raw.githubusercontent.com/ut-cs378-vision-2014fall/course-info/master/images/image_alignment.png"/> | [Image Alignment 1](https://github.com/ut-cs378-vision-2014fall/course-info/blob/master/meeting-notes/02_02_sept.pdf) | Image warping | 3.6.1  |  |
 |  3 | Thursday 4 Sep | <img width="400" src="https://raw.githubusercontent.com/ut-cs378-vision-2014fall/course-info/master/images/image_alignment.png"/> | [Image Alignment 2](https://github.com/ut-cs378-vision-2014fall/course-info/blob/master/meeting-notes/02_02_sept.pdf) | Fitting a model | 6.1.1, 6.1.4 | Project 0 due Project 1 out |
 |  4 | Tuesday 9 Sep | <img width="400" src="https://raw.githubusercontent.com/ut-cs378-vision-2014fall/course-info/master/images/feature_match.png"/> | Feature Matching 1 | What is an interest point? What is a feature? | 4.1.1-3 | |
-|  5 | Thursday 11 Sep | <img width="400" src="https://raw.githubusercontent.com/ut-cs378-vision-2014fall/course-info/master/images/feature_match.png"/> | Feature Matching | Invariant features and feature matching | 4.1.1-3 | |
+|  5 | Thursday 11 Sep | <img width="400" src="https://raw.githubusercontent.com/ut-cs378-vision-2014fall/course-info/master/images/feature_match.png"/> | Feature Matching 2 | Invariant features and feature matching | 4.1.1-3 | |
 
 ## Course requirements
 
