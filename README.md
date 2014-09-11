@@ -32,6 +32,17 @@ The class will be heavily project-based. Projects will be completed in small gro
 
 We'll devote lots of in-class time to working on projects with the TA and I available to help. Each class may begin with a short presentation on a topic relevant to the current assignment. You should expect to spend time outside of class gaining additional background and practice with the topics covered by the projects.
 
+## Course Schedule
+This schedule is a living thing and may change as needed to accomodate the class's progress.
+
+|  # | Date |     | Topic     | Details   | Reading | Projects |
+|---:|------|:---:|-----------| ----------|---------|----------|
+|  1 | Thursday 28 Aug | <img width="400" src="https://raw.githubusercontent.com/ut-cs378-vision-2014fall/course-info/master/images/lena_pixels.png"/> | [Introductions and image basics](https://github.com/ut-cs378-vision-2014fall/course-info/raw/master/meeting-notes/01_28_august.pdf) | We meet each other. I'll tell you what I hope cover, you'll tell me what you hope to learn. | 2.1, 2.3 | Project 0 out |
+|  2 | Tuesday 2 Sep | <img width="400" src="https://raw.githubusercontent.com/ut-cs378-vision-2014fall/course-info/master/images/image_alignment.png"/> | [Image Alignment 1](https://github.com/ut-cs378-vision-2014fall/course-info/raw/master/meeting-notes/02_02_sept.pdf) | Image warping | 3.6.1  |  |
+|  3 | Thursday 4 Sep | <img width="400" src="https://raw.githubusercontent.com/ut-cs378-vision-2014fall/course-info/master/images/image_alignment.png"/> | [Image Alignment 2](https://github.com/ut-cs378-vision-2014fall/course-info/raw/master/meeting-notes/03_04_sept.pdf) | Fitting a model | 6.1.1, 6.1.4 | Project 0 due Project 1 out |
+|  4 | Tuesday 9 Sep | <img width="400" src="https://raw.githubusercontent.com/ut-cs378-vision-2014fall/course-info/master/images/feature_match.png"/> | [Feature Matching 1](https://github.com/ut-cs378-vision-2014fall/course-info/raw/master/meeting-notes/04_09_sept.pdf) | What is an interest point? What is a feature? | 4.1.1-3 | |
+|  5 | Thursday 11 Sep | <img width="400" src="https://raw.githubusercontent.com/ut-cs378-vision-2014fall/course-info/master/images/feature_match.png"/> | [Feature Matching 2](https://github.com/ut-cs378-vision-2014fall/course-info/raw/master/meeting-notes/05_11_sept.pdf) | Invariant features and feature matching | 4.1.1-3 | |
+
 ## Topic overview
 
 ### Image basics
@@ -64,16 +75,6 @@ We'll devote lots of in-class time to working on projects with the TA and I avai
 - Motion estimation
 - Scene estimation
 
-## Course Schedule
-This schedule is a living thing and may change as needed to accomodate the class's progress.
-
-|  # | Date |     | Topic     | Details   | Reading | Projects |
-|---:|------|:---:|-----------| ----------|---------|----------|
-|  1 | Thursday 28 Aug | <img width="400" src="https://raw.githubusercontent.com/ut-cs378-vision-2014fall/course-info/master/images/lena_pixels.png"/> | [Introductions and image basics](https://github.com/ut-cs378-vision-2014fall/course-info/raw/master/meeting-notes/01_28_august.pdf) | We meet each other. I'll tell you what I hope cover, you'll tell me what you hope to learn. | 2.1, 2.3 | Project 0 out |
-|  2 | Tuesday 2 Sep | <img width="400" src="https://raw.githubusercontent.com/ut-cs378-vision-2014fall/course-info/master/images/image_alignment.png"/> | [Image Alignment 1](https://github.com/ut-cs378-vision-2014fall/course-info/raw/master/meeting-notes/02_02_sept.pdf) | Image warping | 3.6.1  |  |
-|  3 | Thursday 4 Sep | <img width="400" src="https://raw.githubusercontent.com/ut-cs378-vision-2014fall/course-info/master/images/image_alignment.png"/> | [Image Alignment 2](https://github.com/ut-cs378-vision-2014fall/course-info/raw/master/meeting-notes/03_04_sept.pdf) | Fitting a model | 6.1.1, 6.1.4 | Project 0 due Project 1 out |
-|  4 | Tuesday 9 Sep | <img width="400" src="https://raw.githubusercontent.com/ut-cs378-vision-2014fall/course-info/master/images/feature_match.png"/> | [Feature Matching 1](https://github.com/ut-cs378-vision-2014fall/course-info/raw/master/meeting-notes/04_09_sept.pdf) | What is an interest point? What is a feature? | 4.1.1-3 | |
-|  5 | Thursday 11 Sep | <img width="400" src="https://raw.githubusercontent.com/ut-cs378-vision-2014fall/course-info/master/images/feature_match.png"/> | Feature Matching 2 | Invariant features and feature matching | 4.1.1-3 | |
 
 ## Course requirements
 
