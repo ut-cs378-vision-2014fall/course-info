@@ -110,8 +110,8 @@ Here is a list of the five projects for the class, along with *estimated* due da
 |------|-------------|--------|----------------------|
 | Project 0 | Account setup and image basics | 10% | 4 Sept |
 | Project 1 | Stitching a panorama | 20% | 23 Sept |
-| Project 2 | Dense stereo reconstruction | 20% | 7 Oct |
-| Project 3 | Real-time tracking | 20% | 23 Oct |
+| Project 2 | Dense stereo reconstruction | 20% | 14 Oct |
+| Project 3 | Real-time tracking | 20% | 30 Oct |
 | Project 4 | Choose your own adventure! | 30% | 2 Dec | 
 
 ### Late policy
