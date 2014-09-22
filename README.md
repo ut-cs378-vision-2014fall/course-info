@@ -43,7 +43,8 @@ This schedule is a living thing and may change as needed to accomodate the class
 |  4 | Tuesday 9 Sep | <img width="400" src="https://raw.githubusercontent.com/ut-cs378-vision-2014fall/course-info/master/images/feature_match.png"/> | [Feature Matching 1](https://github.com/ut-cs378-vision-2014fall/course-info/raw/master/meeting-notes/04_09_sept.pdf) | What is an interest point? What is a feature? | 4.1.1-3 | |
 |  5 | Thursday 11 Sep | <img width="400" src="https://raw.githubusercontent.com/ut-cs378-vision-2014fall/course-info/master/images/feature_match.png"/> | [Feature Matching 2](https://github.com/ut-cs378-vision-2014fall/course-info/raw/master/meeting-notes/05_11_sept.pdf) | Invariant features and feature matching | 4.1.1-3 | |
 |  6 | Tuesday 16 Sep | <img width="400" src="https://raw.githubusercontent.com/ut-cs378-vision-2014fall/course-info/master/images/poisson_blend.png"/> | [Image Blending](https://github.com/ut-cs378-vision-2014fall/course-info/raw/master/meeting-notes/06_16_sept.pdf) | High-level overview of blending | 3.5, 9.3, [Burt & Adelson](http://www.cs.princeton.edu/courses/archive/fall05/cos429/papers/burt_adelson.pdf) | |
-|  6 | Thursday 18 Sep | <img width="400" src="https://raw.githubusercontent.com/ut-cs378-vision-2014fall/course-info/master/images/stereo.png"/> | Stereo 1 | Epipolar geometry | 11.1 | |
+|  7 | Thursday 18 Sep | <img width="400" src="https://raw.githubusercontent.com/ut-cs378-vision-2014fall/course-info/master/images/stereo.png"/> | Stereo 1 | [Epipolar geometry](https://github.com/ut-cs378-vision-2014fall/course-info/raw/master/meeting-notes/06_16_sept.pdf) | 11.1 | |
+|  8 | Tuesday 23 Sep | |  | Project 1 Workday | 11.1 | Project 1 due |
 
 ## Topic overview
 
