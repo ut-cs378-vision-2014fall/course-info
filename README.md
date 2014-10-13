@@ -63,8 +63,8 @@ This schedule is a living thing and may change as needed to accomodate the class
 | 24 | Tuesday 18 Nov | | Final Project Work | On-demand topics | Final project progress report 2 due |
 | 25 | Thursday 20 Nov | | Final Project Work | On-demand topics | |
 | 26 | Tuesday 25 Nov | | Final Project Presentations 1 | | Final project progress report 3 due |
-
-
+| 27 | Tuesday 2 Dec | | Final Project Presentations 2 | |  |
+| 28 | Tuesday 4 Dec | | Final Project Presentations 3 | | Final projects due |
 
 ## Topic overview
 
