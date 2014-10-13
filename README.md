@@ -53,6 +53,9 @@ This schedule is a living thing and may change as needed to accomodate the class
 | 14 | Tuesday 14 Oct | | Video 1     | Motion  | | Project 2 due |
 | 15 | Thursday 16 Oct | | Video 2      | Action Recognition | | Project 2 code reviews due |
 | 16 | Tuesday 21 Oct  | | Video 3      | Tracking | | Project 2 Revisions due. Project 3 out |
+| 17 | Thursday 21 Oct  | | Applications 1      |  | |  |
+| 18 | Tuesday 28 Oct  | | Applications 2      |  | | Final project groups and proposals due |
+| 19 | Thursday 30 Oct | | Industry guest lecture | Chris Slaughter, Lynx Labs | |
 
 ## Topic overview
 
