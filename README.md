@@ -50,7 +50,9 @@ This schedule is a living thing and may change as needed to accomodate the class
 | 11 | Thursday 2 Oct | <img width="400" src="https://raw.githubusercontent.com/ut-cs378-vision-2014fall/course-info/master/images/sfm_thumb.png"/> | [Structure from Motion 2](https://github.com/ut-cs378-vision-2014fall/course-info/raw/master/meeting-notes/11_02_oct.pdf) | Street View SfM | | Project 1 code reviews due |
 | 12 | Tuesday 7 Oct |  | Project 2 work week     |  | |  |
 | 13 | Thursday 9 Oct | | Project 2 work week     |  | |  |
-| 14 | Tuesday 14 Oct | | Real-time tracking      |  | | Project 2 due |
+| 14 | Tuesday 14 Oct | | Video 1     | Motion  | | Project 2 due |
+| 15 | Thursday 16 Oct | | Video 2      | Action Recognition | | Project 2 code reviews due |
+| 16 | Tuesday 21 Oct  | | Video 3      | Tracking | | Project 2 Revisions due. Project 3 out |
 
 ## Topic overview
 
