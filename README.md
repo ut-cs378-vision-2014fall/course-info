@@ -50,12 +50,12 @@ This schedule is a living thing and may change as needed to accomodate the class
 | 11 | Thursday 2 Oct | <img width="400" src="https://raw.githubusercontent.com/ut-cs378-vision-2014fall/course-info/master/images/sfm_thumb.png"/> | [Structure from Motion 2](https://github.com/ut-cs378-vision-2014fall/course-info/raw/master/meeting-notes/11_02_oct.pdf) | Street View SfM | | Project 1 code reviews due |
 | 12 | Tuesday 7 Oct | <img width="400" src="https://raw.githubusercontent.com/ut-cs378-vision-2014fall/course-info/master/images/stereo_proj.png"/> | Project 2 work week     |  | |  |
 | 13 | Thursday 9 Oct | <img width="400" src="https://raw.githubusercontent.com/ut-cs378-vision-2014fall/course-info/master/images/stereo_proj.png"/> | Project 2 work week     |  | |  |
-| 14 | Tuesday 14 Oct | | Video 1     | Motion  | | Project 2 due |
-| 15 | Thursday 16 Oct | | Video 2      | Action Recognition | | Project 2 code reviews due Friday 17 Oct |
-| 16 | Tuesday 21 Oct  | | Video 3      | Tracking | | Project 2 Revisions due. Project 3 out |
+| 14 | Tuesday 14 Oct | <img width="400" src="https://raw.githubusercontent.com/ut-cs378-vision-2014fall/course-info/master/images/video.png"/> | Video 1     | Motion  | | Project 2 due |
+| 15 | Thursday 16 Oct | <img width="400" src="https://raw.githubusercontent.com/ut-cs378-vision-2014fall/course-info/master/images/video.png"/> | Video 2      | Action Recognition | | Project 2 code reviews due Friday 17 Oct |
+| 16 | Tuesday 21 Oct  | <img width="400" src="https://raw.githubusercontent.com/ut-cs378-vision-2014fall/course-info/master/images/video.png"/> | Video 3      | Tracking | | Project 2 Revisions due. Project 3 out |
 | 17 | Thursday 21 Oct  | | Applications 1      |  | |  |
 | 18 | Tuesday 28 Oct  | | Applications 2      |  | | Final project groups and proposals due |
-| 19 | Thursday 30 Oct | | Industry guest lecture | Chris Slaughter, Lynx Labs | |
+| 19 | Thursday 30 Oct | | Geometric Computer Vision Systems | Chris Slaughter, CEO, [Lynx Labs](http://lynxlaboratories.com/) | |
 | 20 | Tuesday 4 Nov | | Final Project Work | On-demand topics | | Project 3 due, Final project proposal evaluations back |
 | 21 | Thursday 6 Nov | | Final Project Work | On-demand topics  |  | |
 | 22 | Tuesday 11 Nov | | Final Project Work | On-demand topics | | Final project progress report 1 due |
