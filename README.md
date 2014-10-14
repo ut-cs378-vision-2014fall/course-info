@@ -56,15 +56,15 @@ This schedule is a living thing and may change as needed to accomodate the class
 | 17 | Thursday 21 Oct  | | Applications 1      |  | |  |
 | 18 | Tuesday 28 Oct  | | Applications 2      |  | | Final project groups and proposals due |
 | 19 | Thursday 30 Oct | | Industry guest lecture | Chris Slaughter, Lynx Labs | |
-| 20 | Tuesday 4 Nov | | Final Project Work | On-demand topics | Project 3 due, Final project proposal evaluations back |
-| 21 | Thursday 6 Nov | | Final Project Work | On-demand topics  |  |
-| 22 | Tuesday 11 Nov | | Final Project Work | On-demand topics | Final project progress report 1 due |
-| 23 | Thursday 13 Nov | | Final Project Work | On-demand topics |  |
-| 24 | Tuesday 18 Nov | | Final Project Work | On-demand topics |  |
-| 25 | Thursday 20 Nov | | Final Project Work | On-demand topics | Final project progress report 2 due |
-| 26 | Tuesday 25 Nov | | Final Project Presentations 1 | |  |
-| 27 | Tuesday 2 Dec | | Final Project Presentations 2 | | Final projects due |
-| 28 | Thursday 4 Dec | | Final Project Presentations 3 | |  |
+| 20 | Tuesday 4 Nov | | Final Project Work | On-demand topics | | Project 3 due, Final project proposal evaluations back |
+| 21 | Thursday 6 Nov | | Final Project Work | On-demand topics  |  | |
+| 22 | Tuesday 11 Nov | | Final Project Work | On-demand topics | | Final project progress report 1 due |
+| 23 | Thursday 13 Nov | | Final Project Work | On-demand topics |  | |
+| 24 | Tuesday 18 Nov | | Final Project Work | On-demand topics |  | |
+| 25 | Thursday 20 Nov | | Final Project Work | On-demand topics | | Final project progress report 2 due |
+| 26 | Tuesday 25 Nov | | Final Project Presentations 1 | |  | | 
+| 27 | Tuesday 2 Dec | | Final Project Presentations 2 | | | Final projects due |
+| 28 | Thursday 4 Dec | | Final Project Presentations 3 | |  | |
 
 ## Topic overview
 
