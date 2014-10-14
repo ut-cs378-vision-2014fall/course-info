@@ -60,11 +60,11 @@ This schedule is a living thing and may change as needed to accomodate the class
 | 21 | Thursday 6 Nov | | Final Project Work | On-demand topics  |  |
 | 22 | Tuesday 11 Nov | | Final Project Work | On-demand topics | Final project progress report 1 due |
 | 23 | Thursday 13 Nov | | Final Project Work | On-demand topics |  |
-| 24 | Tuesday 18 Nov | | Final Project Work | On-demand topics | Final project progress report 2 due |
-| 25 | Thursday 20 Nov | | Final Project Work | On-demand topics | |
-| 26 | Tuesday 25 Nov | | Final Project Presentations 1 | | Final project progress report 3 due |
-| 27 | Tuesday 2 Dec | | Final Project Presentations 2 | |  |
-| 28 | Tuesday 4 Dec | | Final Project Presentations 3 | | Final projects due |
+| 24 | Tuesday 18 Nov | | Final Project Work | On-demand topics |  |
+| 25 | Thursday 20 Nov | | Final Project Work | On-demand topics | Final project progress report 2 due |
+| 26 | Tuesday 25 Nov | | Final Project Presentations 1 | |  |
+| 27 | Tuesday 2 Dec | | Final Project Presentations 2 | | Final projects due |
+| 28 | Thursday 4 Dec | | Final Project Presentations 3 | |  |
 
 ## Topic overview
 
@@ -133,7 +133,7 @@ Here is a list of the five projects for the class, along with *estimated* due da
 | Project 0 | Account setup and image basics | 10% | 4 Sept |
 | Project 1 | Stitching a panorama | 20% | 23 Sept |
 | Project 2 | Dense stereo reconstruction | 20% | 14 Oct |
-| Project 3 | Real-time tracking | 20% | 30 Oct |
+| Project 3 | Real-time tracking | 20% | 4 Nov |
 | Project 4 | Choose your own adventure! | 30% | 2 Dec | 
 
 ### Late policy
