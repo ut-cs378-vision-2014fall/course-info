@@ -57,8 +57,8 @@ This schedule is a living thing and may change as needed to accomodate the class
 | 18 | Tuesday 28 Oct  | | Applications 2      |  | | Final project groups and proposals due |
 | 19 | Thursday 30 Oct | | Geometric Computer Vision Systems | Chris Slaughter, CEO, [Lynx Labs](http://lynxlaboratories.com/) | |
 | 20 | Tuesday 4 Nov | | Final Project Work | On-demand topics | | Project 3 due, Final project proposal evaluations back |
-| 21 | Thursday 6 Nov | | Final Project Work | On-demand topics  |  | |
-| 22 | Tuesday 11 Nov | | Final Project Work | On-demand topics | | Final project progress report 1 due |
+| 21 | Thursday 6 Nov | | Final Project Work | On-demand topics  |  | Project 3 code reviews due Friday 7 Nov |
+| 22 | Tuesday 11 Nov | | Final Project Work | On-demand topics | | Final project progress report 1 due. Project 3 final code revisions due. |
 | 23 | Thursday 13 Nov | | Final Project Work | On-demand topics |  | |
 | 24 | Tuesday 18 Nov | | Final Project Work | On-demand topics |  | |
 | 25 | Thursday 20 Nov | | Final Project Work | On-demand topics | | Final project progress report 2 due |
