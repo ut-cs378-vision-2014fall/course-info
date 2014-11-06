@@ -56,8 +56,8 @@ This schedule is a living thing and may change as needed to accomodate the class
 | 17 | Thursday 21 Oct  | | [Applications 1](https://github.com/ut-cs378-vision-2014fall/course-info/raw/master/meeting-notes/17_23_oct.pdf)      | Street View indoor geometry reconstruction | |  |
 | 18 | Tuesday 28 Oct  | | [Applications 2](https://github.com/ut-cs378-vision-2014fall/course-info/raw/master/meeting-notes/18_28_oct.pdf)      | Academic survey | | Final project groups and proposals due |
 | 19 | Thursday 30 Oct | <img width="400" src="https://raw.githubusercontent.com/ut-cs378-vision-2014fall/course-info/master/images/lynx_labs.jpg"/> | [Geometric Computer Vision Systems](https://github.com/ut-cs378-vision-2014fall/course-info/raw/master/meeting-notes/19_30_oct.pdf) | Chris Slaughter, CEO, [Lynx Labs](http://lynxlaboratories.com/) | |
-| 20 | Tuesday 4 Nov | | Final Project Work | On-demand topics | | Project 3 due, Final project proposal evaluations back |
-| 21 | Thursday 6 Nov | | Final Project Work | On-demand topics  |  | Project 3 code reviews due Friday 7 Nov. |
+| 20 | Tuesday 4 Nov | | Final Project Work | [On-demand topics: None](https://github.com/ut-cs378-vision-2014fall/course-info/raw/master/meeting-notes/20_04_nov.pdf) | | Project 3 due, Final project proposal evaluations back |
+| 21 | Thursday 6 Nov | | Final Project Work | [On-demand topics: Video](https://github.com/ut-cs378-vision-2014fall/course-info/raw/master/meeting-notes/21_06_nov.pdf)  |  | Project 3 code reviews due Friday 7 Nov. |
 | 22 | Tuesday 11 Nov | | Final Project Work | On-demand topics | | Project 3 final code revisions due. |
 | 23 | Thursday 13 Nov | | Final Project Work | On-demand topics |  | Final project progress report 1 due. |
 | 24 | Tuesday 18 Nov | | Final Project Work | On-demand topics |  | |
