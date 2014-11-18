@@ -60,7 +60,7 @@ This schedule is a living thing and may change as needed to accomodate the class
 | 21 | Thursday 6 Nov | | Final Project Work | [On-demand topics: Video](https://github.com/ut-cs378-vision-2014fall/course-info/raw/master/meeting-notes/21_06_nov.pdf)  |  | Project 3 code reviews due Friday 7 Nov. |
 | 22 | Tuesday 11 Nov | | Final Project Work | [On-demand topics: Structure from motion](https://github.com/ut-cs378-vision-2014fall/course-info/raw/master/meeting-notes/22_11_nov.pdf) | | Project 3 final code revisions due. |
 | 23 | Thursday 13 Nov | | Final Project Work | [On-demand topics: Feature matching](https://github.com/ut-cs378-vision-2014fall/course-info/raw/master/meeting-notes/23_13_nov.pdf) |  | Final project progress report 1 due. |
-| 24 | Tuesday 18 Nov | | Final Project Work | On-demand topics |  | |
+| 24 | Tuesday 18 Nov | | Final Project Work | [On-demand topics: Stereo](https://github.com/ut-cs378-vision-2014fall/course-info/raw/master/meeting-notes/24_18_nov.pdf) |  | |
 | 25 | Thursday 20 Nov | | Final Project Work | On-demand topics | | Final project progress report 2 due |
 | 26 | Tuesday 25 Nov | | Final Project Presentations 1 | |  | | 
 | 27 | Tuesday 2 Dec | | Final Project Presentations 2 | | | Final projects due |
