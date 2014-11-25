@@ -62,7 +62,7 @@ This schedule is a living thing and may change as needed to accomodate the class
 | 23 | Thursday 13 Nov | | Final Project Work | [On-demand topics: Feature matching](https://github.com/ut-cs378-vision-2014fall/course-info/raw/master/meeting-notes/23_13_nov.pdf) |  | Final project progress report 1 due. |
 | 24 | Tuesday 18 Nov | | Final Project Work | [On-demand topics: Stereo](https://github.com/ut-cs378-vision-2014fall/course-info/raw/master/meeting-notes/24_18_nov.pdf) |  | |
 | 25 | Thursday 20 Nov | | Final Project Work | On-demand topics | | Final project progress report 2 due |
-| 26 | Tuesday 25 Nov | | Final Project Presentations 1 | |  | | 
+| 26 | Tuesday 25 Nov | | Final Project Presentations 1 | [Group 1: Automatic climbing route detection](https://prezi.com/zdcmcumyyp0h/folk-detect-innovate-bison/?utm_campaign=share&utm_medium=copy)|  | | 
 | 27 | Tuesday 2 Dec | | Final Project Presentations 2 | | | Final projects due |
 | 28 | Thursday 4 Dec | | Final Project Presentations 3 | |  | |
 
