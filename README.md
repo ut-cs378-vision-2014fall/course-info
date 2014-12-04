@@ -63,8 +63,8 @@ This schedule is a living thing and may change as needed to accomodate the class
 | 24 | Tuesday 18 Nov | | Final Project Work | [On-demand topics: Stereo](https://github.com/ut-cs378-vision-2014fall/course-info/raw/master/meeting-notes/24_18_nov.pdf) |  | |
 | 25 | Thursday 20 Nov | | Final Project Work | On-demand topics | | Final project progress report 2 due |
 | 26 | Tuesday 25 Nov | | Final Project Presentations 1 | Group 13: Video overlays [Group 1: Automatic climbing route detection](https://prezi.com/zdcmcumyyp0h/folk-detect-innovate-bison/?utm_campaign=share&utm_medium=copy) [Group 8: AR Globe](final_presentations/group_08.pdf) |  | | 
-| 27 | Tuesday 2 Dec | | Final Project Presentations 2 | [Group 2: Gesture control](final_presentations/group_02.pdf) [Group 11: AR Chess](final_presentations/group_11.pdf) Group 6: Stereo 3D scanning Group 7: Kinect/Cardboard 3D modeling [Group 9: 2D-to-3D camera pose](final_presentations/group_09.pdf) | | Final projects due |
-| 28 | Thursday 4 Dec | | Final Project Presentations 3 | Group 12: Motion tweening Group 3: Emotion detection Group 10: Hand tracking Group 4: Facial and gesture recognition Group 5: Hand gesture recognition |  | |
+| 27 | Tuesday 2 Dec | | Final Project Presentations 2 | [Group 2: Gesture control](final_presentations/group_02.pdf) [Group 11: AR Chess](final_presentations/group_11.pdf) Group 6: Stereo 3D scanning [Group 7: Kinect/Cardboard 3D modeling](final_presentations/group_07.pdf) [Group 9: 2D-to-3D camera pose](final_presentations/group_09.pdf) | | Final projects due |
+| 28 | Thursday 4 Dec | | Final Project Presentations 3 | [Group 12: Motion tweening](final_presentations/group_12.pdf) Group 3: Emotion detection Group 10: Hand tracking Group 4: Facial and gesture recognition Group 5: Hand gesture recognition |  | |
 
 ## Topic overview
 
