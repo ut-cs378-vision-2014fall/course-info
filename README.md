@@ -130,11 +130,11 @@ Here is a list of the five projects for the class, along with *estimated* due da
 
 | Name | Description | Weight | Due date (estimated) |
 |------|-------------|--------|----------------------|
-| Project 0 | [Account setup and image basics](https://github.com/ut-cs378-vision-2014fall/projects/project_0) | 10% | 4 Sept |
-| Project 1 | Stitching a panorama | 20% | 23 Sept |
-| Project 2 | Dense stereo reconstruction | 20% | 14 Oct |
-| Project 3 | Real-time tracking | 20% | 4 Nov |
-| Project 4 | Choose your own adventure! | 30% | 2 Dec | 
+| Project 0 | [Account setup and image basics](https://github.com/ut-cs378-vision-2014fall/projects/tree/master/project_0) | 10% | 4 Sept |
+| Project 1 | [Stitching a panorama](https://github.com/ut-cs378-vision-2014fall/projects/tree/master/project_1) | 20% | 23 Sept |
+| Project 2 | [Dense stereo reconstruction](https://github.com/ut-cs378-vision-2014fall/projects/tree/master/project_2) | 20% | 14 Oct |
+| Project 3 | [Real-time tracking](https://github.com/ut-cs378-vision-2014fall/projects/tree/master/project_3) | 20% | 4 Nov |
+| Project 4 | [Choose your own adventure!](https://github.com/ut-cs378-vision-2014fall/projects/tree/master/project_4) | 30% | 2 Dec | 
 
 ### Late policy
 Submit your project by 11:59 PM on the day that its due according to the project's instructions.
